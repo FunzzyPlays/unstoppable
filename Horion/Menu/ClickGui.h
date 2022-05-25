@@ -65,7 +65,7 @@ private:
 				categoryName = "World";
 				break;
 			case Category::MISC:
-				categoryName = "Misc";
+				categoryName = "yes test test";
 				break;
 			case Category::CUSTOM:
 				categoryName = "Scripts";
